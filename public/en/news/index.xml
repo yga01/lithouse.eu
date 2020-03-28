@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Lithouse</title>
+    <link>http://www.lithouse.eu/en/news/</link>
+    <description>Recent content in News on Lithouse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://www.lithouse.eu/en/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Beautiful Design</title>
+      <link>http://www.lithouse.eu/en/news/20200326_goed_gelukt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lithouse.eu/en/news/20200326_goed_gelukt/</guid>
+      <description>We are builders and we are proud of our houses because of the techniques and materials that we use. Our houses are robust, sturdy, they have very high insulation values and the are build to withstand ages. But all that means nothing when it comes to aesthetics.
+A nice design is just that, nice, and that is why we often cooperate with the architects from OxL. Because no matter how nice our designs are, these OxL boys always manage to make it nicer.</description>
+    </item>
+    
+  </channel>
+</rss>

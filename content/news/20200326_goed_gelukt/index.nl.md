@@ -1,0 +1,18 @@
+---
+title: 'Goed Gelukt'
+date: 27-03-2020
+---
+
+Wij zijn bouwers en we zijn vooral trots op onze huizen vanwege de techniek. Robuust, solide, hoge isolatiewaarden, voor de eeuwen gebouwd. Maar dat zegt allemaal niets over de esthetiek.
+
+{{< image src = "IMG_20191113_153847-1024x767.jpg" >}}
+
+Een mooi huis is ook wat waard, en daarom werken we vaak samen met architecten van OxL. Want hoe mooi onze ontwerpen ook zijn, die jongen van OxL zetten een paar strepen op papier en voilá, meteen mooier. We begrijpen niet goed hoe dat werkt, maar het werkt.
+
+{{< image src = "IMG_20191113_154059.jpg" >}}
+
+Een enkele keer slaagt onze klant er zelf in: een prachtig ontwerp maken, en dan zonder architect. Het is niet iedereen gegeven, maar recent bouwden we voor een klant in Almere die dat zomaar deed: een paar strepen op papier en klaar.
+
+We zullen binnenkort wat extra foto's op de website plaatsen, op dit moment moeten we het nog even doen met de foto's van direct na de bouw. De kavel is nog een grote bende en staat half onder water, maar wie daar doorheen kijkt ziet een pracht ontwerp.
+
+{{< image src = "IMG_20191113_153625.jpg" >}}

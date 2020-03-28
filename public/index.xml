@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lithouse</title>
+    <link>http://www.lithouse.eu/</link>
+    <description>Recent content on Lithouse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://www.lithouse.eu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.lithouse.eu/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lithouse.eu/contact/</guid>
+      <description>Kantoor Nederland:
+Vredelaan 18
+1318 AS Almere
+Netherlands
+tel. +31 8787 61900
+Kantoor Litouwen:
+Kauno g. 11-4
+Ukmerge
+Lithuania
+tel. +370 688 29898
+Telefoonnummers:
+Ysbrand Galama: +31 6 534 65265
+Vaida Vaitkunaite: +370 688 29898
+KvK- en BTW-nummers:
+Kamer van Koophandel: NL-32162173
+BTW-nr: NL-821523405B01</description>
+    </item>
+    
+    <item>
+      <title>Goed Gelukt</title>
+      <link>http://www.lithouse.eu/news/20200326_goed_gelukt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lithouse.eu/news/20200326_goed_gelukt/</guid>
+      <description>Wij zijn bouwers en we zijn vooral trots op onze huizen vanwege de techniek. Robuust, solide, hoge isolatiewaarden, voor de eeuwen gebouwd. Maar dat zegt allemaal niets over de esthetiek.
+Een mooi huis is ook wat waard, en daarom werken we vaak samen met architecten van OxL. Want hoe mooi onze ontwerpen ook zijn, die jongen van OxL zetten een paar strepen op papier en voilá, meteen mooier. We begrijpen niet goed hoe dat werkt, maar het werkt.</description>
+    </item>
+    
+    <item>
+      <title>Nieuwe Website</title>
+      <link>http://www.lithouse.eu/main/new_website/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lithouse.eu/main/new_website/</guid>
+      <description>Omdat de oude website te ingewikkeld werd om fatsoenlijk te onderhouden, zijn we begonnen met de bouw van een nieuwe website. Dat gaat niet heel erg snel want ook in deze corona-crisis-tijd zijn we druk met produktie en met de voorbereiding van produktie. Het enige wat tijdelijk stil ligt is de assemblage, en we hopen dat we daar ook snel weer mee verder kunnen.
+We gaan proberen alle oude projecten weer op de nieuwe website te plaatsen, en we zullen, net als vroeger, veel aandacht besteden aan de techniek.</description>
+    </item>
+    
+  </channel>
+</rss>

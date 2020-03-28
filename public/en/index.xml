@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lithouse</title>
+    <link>http://www.lithouse.eu/en/</link>
+    <description>Recent content on Lithouse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://www.lithouse.eu/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Beautiful Design</title>
+      <link>http://www.lithouse.eu/en/news/20200326_goed_gelukt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lithouse.eu/en/news/20200326_goed_gelukt/</guid>
+      <description>We are builders and we are proud of our houses because of the techniques and materials that we use. Our houses are robust, sturdy, they have very high insulation values and the are build to withstand ages. But all that means nothing when it comes to aesthetics.
+A nice design is just that, nice, and that is why we often cooperate with the architects from OxL. Because no matter how nice our designs are, these OxL boys always manage to make it nicer.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.lithouse.eu/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lithouse.eu/en/contact/</guid>
+      <description>Office Netherlands:
+Vredelaan 18
+1318 AS Almere
+Netherlands
+tel. +31 8787 61900
+Office Lithuania:
+Kauno g. 11-4
+Ukmerge
+Lithuania
+tel. +370 688 29898
+Company Registrations:
+Chamber of Commerce, KvK: NL-32162173
+VAT/TVA-no: NL-821523405B01
+Phone Numbers:
+Ysbrand Galama: +31 6 534 65265
+Vaida Vaitkunaite: +370 688 29898
+Company Registrations:
+Chamber of Commerce, KvK: NL-32162173
+VAT/TVA-no: NL-821523405B01</description>
+    </item>
+    
+    <item>
+      <title>New Website</title>
+      <link>http://www.lithouse.eu/en/main/new_website/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lithouse.eu/en/main/new_website/</guid>
+      <description>As our old website was too complex and difficult to maintain, we kicked it out. We don&amp;rsquo;t like complex stuff, we want simple stuff.
+So we are now in the process of rebuilding our website, but as you can see it is all still quite half-baked. We decided to put it on the web anyways, at least you can see our contact details.</description>
+    </item>
+    
+  </channel>
+</rss>

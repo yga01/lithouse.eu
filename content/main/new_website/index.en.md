@@ -1,0 +1,8 @@
+---
+title: 'New Website'
+date: 27-03-2020
+---
+
+As our old website was too complex and difficult to maintain, we kicked it out. We don't like complex stuff, we want simple stuff.
+
+So we are now in the process of rebuilding our website, but as you can see it is all still quite half-baked. We decided to put it on the web anyways, at least you can see our contact details.

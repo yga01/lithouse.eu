@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Main on Lithouse</title>
+    <link>http://www.lithouse.eu/main/</link>
+    <description>Recent content in Main on Lithouse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://www.lithouse.eu/main/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nieuwe Website</title>
+      <link>http://www.lithouse.eu/main/new_website/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.lithouse.eu/main/new_website/</guid>
+      <description>Omdat de oude website te ingewikkeld werd om fatsoenlijk te onderhouden, zijn we begonnen met de bouw van een nieuwe website. Dat gaat niet heel erg snel want ook in deze corona-crisis-tijd zijn we druk met produktie en met de voorbereiding van produktie. Het enige wat tijdelijk stil ligt is de assemblage, en we hopen dat we daar ook snel weer mee verder kunnen.
+We gaan proberen alle oude projecten weer op de nieuwe website te plaatsen, en we zullen, net als vroeger, veel aandacht besteden aan de techniek.</description>
+    </item>
+    
+  </channel>
+</rss>

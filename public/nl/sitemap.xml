@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.lithouse.eu/categories/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.lithouse.eu/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://www.lithouse.eu/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.lithouse.eu/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.lithouse.eu/en/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://www.lithouse.eu/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.lithouse.eu/news/20200326_goed_gelukt/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.lithouse.eu/en/news/20200326_goed_gelukt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://www.lithouse.eu/news/20200326_goed_gelukt/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.lithouse.eu/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.lithouse.eu/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://www.lithouse.eu/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.lithouse.eu/main/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.lithouse.eu/en/main/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://www.lithouse.eu/main/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.lithouse.eu/news/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.lithouse.eu/en/news/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://www.lithouse.eu/news/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.lithouse.eu/main/new_website/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.lithouse.eu/en/main/new_website/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://www.lithouse.eu/main/new_website/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://www.lithouse.eu/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.lithouse.eu/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="http://www.lithouse.eu/tags/"
+                />
+  </url>
+  
+</urlset>
