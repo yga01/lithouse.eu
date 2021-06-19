@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Timelapse on Lithouse</title>
+    <link>https://www.lithouse.eu/fr/timelapse/</link>
+    <description>Recent content in Timelapse on Lithouse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 21 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.lithouse.eu/fr/timelapse/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Une vidéo et un chantier hors-normes</title>
+      <link>https://www.lithouse.eu/fr/timelapse/20200327_assembling_a_log_house/</link>
+      <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lithouse.eu/fr/timelapse/20200327_assembling_a_log_house/</guid>
+      <description>En 2017, nous avons construit une maison sur une île aux Pays-Bas. Une sacrée opération pour obtenir le droit de passage d&amp;rsquo;un camion de 24t sur une digue, puis tout chargé sur une barge, déchargé la barge et enfin décharger sur l&#39;île. Après un projet dans les Alpes à Chamonix, c&#39;était un dépaysement total pour notre équipe de montage que d&amp;rsquo;aller tous les jours en bateau au travail.
+Nous vous proposons une vidéo accélérée du montage de cette maison singulière.</description>
+    </item>
+    
+  </channel>
+</rss>

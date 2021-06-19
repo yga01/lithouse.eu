@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>interior on Lithouse</title>
+    <link>https://www.lithouse.eu/tags/interior/</link>
+    <description>Recent content in interior on Lithouse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.lithouse.eu/tags/interior/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CLT inside doors</title>
+      <link>https://www.lithouse.eu/news/20200409_clt__inside_door_in_almere/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lithouse.eu/news/20200409_clt__inside_door_in_almere/</guid>
+      <description>Another photo from a CLT interior. Look what you can do with CLT: inside doors without frames, and without hinges! The handle is all you see.</description>
+    </item>
+    
+  </channel>
+</rss>

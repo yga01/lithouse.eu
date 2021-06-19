@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Lithouse</title>
+    <link>https://www.lithouse.eu/tags/</link>
+    <description>Recent content in Tags on Lithouse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.lithouse.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>electricity</title>
+      <link>https://www.lithouse.eu/tags/electricity/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lithouse.eu/tags/electricity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>log houses</title>
+      <link>https://www.lithouse.eu/tags/log-houses/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lithouse.eu/tags/log-houses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>design</title>
+      <link>https://www.lithouse.eu/tags/design/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lithouse.eu/tags/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>panel-houses</title>
+      <link>https://www.lithouse.eu/tags/panel-houses/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lithouse.eu/tags/panel-houses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech info</title>
+      <link>https://www.lithouse.eu/tags/tech-info/</link>
+      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lithouse.eu/tags/tech-info/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clt</title>
+      <link>https://www.lithouse.eu/tags/clt/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lithouse.eu/tags/clt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>interior</title>
+      <link>https://www.lithouse.eu/tags/interior/</link>
+      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lithouse.eu/tags/interior/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

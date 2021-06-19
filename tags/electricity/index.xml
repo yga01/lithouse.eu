@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>electricity on Lithouse</title>
+    <link>https://www.lithouse.eu/tags/electricity/</link>
+    <description>Recent content in electricity on Lithouse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.lithouse.eu/tags/electricity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Electricity box</title>
+      <link>https://www.lithouse.eu/news/20210619_meterkast/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lithouse.eu/news/20210619_meterkast/</guid>
+      <description>We were doing a hand-over inspection of a house that we had finished, and then we saw the electricity box. Very often these boxes are a little ehh&amp;hellip; unorganized, to put it kindly. Apparantly the idea is: you close the door, you don&amp;rsquo;t see it, why bother.
+But this one was different. Done by an electrician with a little OCD. Very nice!
+  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Timelapse on Lithouse</title>
+    <link>https://www.lithouse.eu/timelapse/</link>
+    <description>Recent content in Timelapse on Lithouse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 27 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.lithouse.eu/timelapse/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Timelapse assembly of a loghuis</title>
+      <link>https://www.lithouse.eu/timelapse/20200327_assembling_a_log_house/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lithouse.eu/timelapse/20200327_assembling_a_log_house/</guid>
+      <description>In 2017 we built a loghouse on an island in The Netherlands. Quite an operation: getting a permit to drive a 24-ton truck onto the dike, then unloading to a barge, and then unloading on the island. After returning from a project in the Alps this was a little different for our assembly crew, going to work every day with tug boat.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

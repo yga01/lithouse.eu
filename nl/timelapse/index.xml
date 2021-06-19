@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Timelapse on Lithouse</title>
+    <link>https://www.lithouse.eu/nl/timelapse/</link>
+    <description>Recent content in Timelapse on Lithouse</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 27 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.lithouse.eu/nl/timelapse/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Timelapse assemblage loghuis</title>
+      <link>https://www.lithouse.eu/nl/timelapse/20200327_assembling_a_log_house/</link>
+      <pubDate>Fri, 27 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.lithouse.eu/nl/timelapse/20200327_assembling_a_log_house/</guid>
+      <description>In 2017 bouwden we een huis op een eiland. Hele operatie: vergunning aanvragen om met een vrachtwagen op de dijk te rijden, vrachtwagen lossen, platbodem laden, en weer lossen. Onze assemblageploeg kwam net terug van een klus op een berghelling in de Alpen, elke dag met de boot naar het werk was weer eens iets anders.
+  </description>
+    </item>
+    
+  </channel>
+</rss>
