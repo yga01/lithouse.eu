@@ -113,32 +113,8 @@
   </url>
   
   <url>
-    <loc>https://www.lithouse.eu/tags/electricity/</loc>
-    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.lithouse.eu/news/20210619_meterkast/</loc>
-    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl"
-                href="https://www.lithouse.eu/nl/news/20210619_meterkast/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.lithouse.eu/news/20210619_meterkast/"
-                />
-  </url>
-  
-  <url>
     <loc>https://www.lithouse.eu/</loc>
-    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
     <xhtml:link
@@ -160,7 +136,7 @@
   
   <url>
     <loc>https://www.lithouse.eu/news/</loc>
-    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
+    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
     <xhtml:link
@@ -177,6 +153,47 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.lithouse.eu/news/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.lithouse.eu/news/20210712_wood_prices/</loc>
+    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.lithouse.eu/nl/news/20210712_wood_prices/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.lithouse.eu/news/20210712_wood_prices/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.lithouse.eu/tags/electricity/</loc>
+    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.lithouse.eu/news/20210619_meterkast/</loc>
+    <lastmod>2021-06-18T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl"
+                href="https://www.lithouse.eu/nl/news/20210619_meterkast/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.lithouse.eu/news/20210619_meterkast/"
                 />
   </url>
   
